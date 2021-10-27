@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.voting.exceptions.UnderAgeException"/>
+    <fullyQualifiedTypeName name="com.voting.exceptions.LocalityNotFoundException"/>
+    <fullyQualifiedTypeName name="com.voting.service.ElectionBooth"/>
+</qualifiedTypeNameHistroy>

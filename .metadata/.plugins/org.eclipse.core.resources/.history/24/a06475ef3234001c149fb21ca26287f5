@@ -1,0 +1,18 @@
+package shristi.com.my;
+
+public class Shape {
+	static void calcArea(int side) {
+		System.out.println("suare " +side*side);
+		
+	}
+	static void calcArea(float radius) {
+		System.out.println("circle " +Math.PI*radius*radius);
+	}
+	
+	static int calcArea(int length, int breadth) {
+		return(length*breadth);
+	}
+	static double calcArea(int height,float length){
+		return(0.5*height*length);
+	}
+	}
