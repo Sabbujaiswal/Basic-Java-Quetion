@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.voting.exceptions.UnderAgeException"/>
     <fullyQualifiedTypeName name="com.voting.exceptions.LocalityNotFoundException"/>
     <fullyQualifiedTypeName name="com.voting.service.ElectionBooth"/>
+    <fullyQualifiedTypeName name="com.bookapp.bean.Book"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.bookapp.exception.CategoryNotFoundException"/>
+    <fullyQualifiedTypeName name="com.bookapp.exception.AuthorNotFoundException"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 </qualifiedTypeNameHistroy>

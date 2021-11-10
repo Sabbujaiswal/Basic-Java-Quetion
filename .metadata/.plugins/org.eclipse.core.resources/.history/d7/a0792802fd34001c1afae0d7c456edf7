@@ -1,5 +1,0 @@
-package com.voting.main;
-
-public class NoVoterIdException extends Exception {
-
-}

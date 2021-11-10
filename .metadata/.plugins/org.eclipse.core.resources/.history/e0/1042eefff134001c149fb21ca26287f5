@@ -1,5 +1,0 @@
-package shristi.com.interfaces;
-
-public interface ScientificCalculator {
-
-}
